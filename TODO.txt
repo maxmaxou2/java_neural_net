@@ -1,0 +1,5 @@
+Ajouter le principe d'epoch (où l'on parcourt toutes les données train) le tout séparé en plusieurs batch aléatoires de taille fixe
+Paralléliser les batchs
+Ajouter le GPU
+Ajouter le learn rate decay, momentum tout ça
+Ajouter le node dropOut
